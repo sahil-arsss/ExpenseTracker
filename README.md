@@ -82,10 +82,11 @@ This project is licensed under the MIT License.
 
 ## Screenshots
 
-### Dashboard
+![image](https://github.com/user-attachments/assets/d4e4bfb3-8b57-4081-b398-9675dd637fa9)
 
-![alt text](image.png)
+### Dashboard
+![Screenshot 2025-07-05 021340](https://github.com/user-attachments/assets/16d8b4bf-e154-4bb7-aefc-f4b74a3425af)
 
 ### Add Transaction
 
-![alt text](image-1.png)
+![Screenshot 2025-07-05 021442](https://github.com/user-attachments/assets/61b5fb51-4754-4184-b31c-b8c1bacb03f7)
