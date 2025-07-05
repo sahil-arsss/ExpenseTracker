@@ -76,9 +76,6 @@ A full-stack web application to manage and analyze your expenses and income. Fea
 - [`backend/`](backend/) - Express API, models, controllers, routes, and database config
 - [`frontend/`](frontend/) - React app source code, components, pages, and assets
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Screenshots
 
